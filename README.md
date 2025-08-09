@@ -2,8 +2,8 @@
 
 A simple PHP/MySQL web application for exploring programming e-books, developed as part of university coursework in Web Application Development.
 
-<img width="750" height="355" alt="cod1" src="https://github.com/user-attachments/assets/1bb014a8-28ce-428b-830a-dafdb2652af3" />
-<img width="750" height="347" alt="cod5" src="https://github.com/user-attachments/assets/0e8b7cf1-f688-48bf-9d8c-f6159678f38a" />
+<img src="https://github.com/user-attachments/assets/1bb014a8-28ce-428b-830a-dafdb2652af3" alt="cod1" width="600" />
+<img src="https://github.com/user-attachments/assets/0e8b7cf1-f688-48bf-9d8c-f6159678f38a" alt="cod5" width="600" />
 
 
 ## Features
