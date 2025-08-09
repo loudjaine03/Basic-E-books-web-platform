@@ -1,0 +1,30 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!DOCTYPE html>
+
+<html>
+    <head>
+       <title>Codify - Sign Up</title>
+        <link rel="stylesheet" href="../styles/style2.css">
+        <link rel="icon" type="image/png" href="../images/icon.png" >
+    </head>
+    <body>
+        <video autoplay muted id="video">
+           <source src="../images/bg1.mp4" type="video/mp4">
+        </video>
+    
+        <h2 class="title1">SignUp</h2>
+        <div class="formulaire">
+            <form action="signup.php" method="post">
+                <label for="full_name">Full Name: *</label> <br>
+                <input type="text" id="full_name" name="full_name" required><br><br>
+                <label for="username">Username: *</label> <br>
+                <input type="text" id="username" name="username" required><br><br>
+                <label for="email">Email: *</label><br>
+                <input type="email" id="email" name="email" required><br><br>
+                <label for="password">Password: *</label><br>
+                <input type="password" id="password" name="password" required><br><br>
+                <input type="submit" value="Sign Up" >
+            </form>
+        </div>
+    </body>
+</html>
