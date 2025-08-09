@@ -1,7 +1,9 @@
 # E-Books Web Platform
 
 A simple PHP/MySQL web application for exploring programming e-books, developed as part of university coursework in Web Application Development.
-<img width="934" height="448" alt="cod1" src="https://github.com/user-attachments/assets/1bb014a8-28ce-428b-830a-dafdb2652af3" />
+<img width="750" height="355" alt="cod1" src="https://github.com/user-attachments/assets/1bb014a8-28ce-428b-830a-dafdb2652af3" />
+<img width="750" height="347" alt="cod5" src="https://github.com/user-attachments/assets/0e8b7cf1-f688-48bf-9d8c-f6159678f38a" />
+
 
 ## Features
 - **User Authentication:** Registration and login system with password hashing.
@@ -18,9 +20,5 @@ A simple PHP/MySQL web application for exploring programming e-books, developed 
 
 ## Project Context
 Developed as part of the Web Application Development coursework at the University Dr. Yahia Fares of Médéa, within the Bachelor's degree in Computer Systems program, as an introduction to building full-stack websites.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/deaf9f46-e7ea-4998-ab14-fbd184328523" alt="cod5" width="55%">
-</p>
 
 
