@@ -20,8 +20,7 @@ A simple PHP/MySQL web application for exploring programming e-books, developed 
 Developed as part of the Web Application Development coursework at the University Dr. Yahia Fares of Médéa, within the Bachelor's degree in Computer Systems program, as an introduction to building full-stack websites.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/deaf9f46-e7ea-4998-ab14-fbd184328523" alt="cod5" width="45%">
-  <img src="https://github.com/user-attachments/assets/c2b0de48-adf9-45ff-b668-f8e82f94b471" alt="cod3" width="45%">
+  <img src="https://github.com/user-attachments/assets/deaf9f46-e7ea-4998-ab14-fbd184328523" alt="cod5" width="55%">
 </p>
 
 
